@@ -18,11 +18,6 @@ const Leftsidebar = () => {
     md:min-w-[260px] border-t-0  border-l-0 border-b-0  border border-r-[#09090A] custom-scrollbar'>
       <div>
 
-        <Link href="/" className='font-bold text-2xl text-white flex gap-3  '>
-          <p className='text-2xl  font-serif font-thin p-3'>
-            Rambler X
-          </p>
-        </Link>
         <div className='mt-20'>
           {LeftsidebarLinks.map((x) =>
             <div key={x.label} className='flex flex-col mt-5 '>
