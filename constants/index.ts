@@ -24,4 +24,9 @@ export const LeftsidebarLinks = [
     route: "/profile",
     label: "Profile",
   },
+  {
+    imgURL: "/assets/hash.png",
+    route: "/hashtags",
+    label: "Hashtags",
+  },
 ]

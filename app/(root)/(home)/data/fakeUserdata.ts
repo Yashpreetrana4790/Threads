@@ -23,6 +23,7 @@ export const postsData = [
     ],
     shares: 5,
     createdAt: new Date("2024-03-01T10:00:00"),
+    hashtags: ["#Thoughts", "#Sharing", "#World"],
   },
   {
     id: "2",
@@ -48,6 +49,7 @@ export const postsData = [
     ],
     shares: 8,
     createdAt: new Date("2024-03-01T11:30:00"),
+    hashtags: ["#Thoughts", "#Sharing", "#World"],
   },
   {
     id: "3",
@@ -118,6 +120,7 @@ export const postsData = [
     ],
     shares: 15,
     createdAt: new Date("2024-03-03T14:45:00"),
+    hashtags: ["#Thoughts", "#Sharing", "#World"],
   },
   {
     id: "5",
